@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+<title id="title">Athulkrishna VP — Robotics and Physical AI</title>
+<desc id="desc">Dark gradient banner with network and robotics-inspired design and the text Athulkrishna VP, Robotics and Physical AI.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1120"/><stop offset="0.55" stop-color="#112342"/><stop offset="1" stop-color="#071a24"/></linearGradient>
+<linearGradient id="line" x1="0" y1="0" x2="1"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#34d399"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#9bd8ef" stroke-opacity=".09"/></pattern>
+</defs>
+<rect width="1200" height="310" rx="24" fill="url(#bg)"/><rect width="1200" height="310" rx="24" fill="url(#grid)"/>
+<g opacity=".55" stroke="url(#line)" stroke-width="2" fill="none">
+<path d="M843 59 L944 100 L1069 56 L1140 107 L1082 190 L972 223 L881 173 Z"/>
+<path d="M944 100 L972 223 M1069 56 L1082 190 M843 59 L881 173 M1140 107 L972 223"/>
+<circle cx="843" cy="59" r="7" fill="#38bdf8"/><circle cx="944" cy="100" r="8" fill="#34d399"/><circle cx="1069" cy="56" r="6" fill="#38bdf8"/><circle cx="1140" cy="107" r="7" fill="#34d399"/><circle cx="1082" cy="190" r="8" fill="#38bdf8"/><circle cx="972" cy="223" r="9" fill="#34d399"/><circle cx="881" cy="173" r="7" fill="#38bdf8"/>
+</g>
+<rect x="57" y="49" width="229" height="29" rx="14" fill="#10394b" stroke="#38bdf8" stroke-opacity=".55"/>
+<text x="73" y="69" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#7dd3fc" letter-spacing="1">ROBOTICS · PHYSICAL AI</text>
+<text x="54" y="151" font-family="Arial, sans-serif" font-weight="800" font-size="59" fill="#f8fafc">Athulkrishna VP</text>
+<rect x="58" y="170" width="478" height="5" rx="2" fill="url(#line)"/>
+<text x="57" y="212" font-family="Arial, sans-serif" font-size="25" fill="#cbd5e1">Perception → Planning → Safe Action</text>
+<text x="58" y="259" font-family="monospace" font-size="17" fill="#5eead4">ROS 2  /  LiDAR  /  UAVs  /  VLM-VLA Safety</text>
+</svg>
