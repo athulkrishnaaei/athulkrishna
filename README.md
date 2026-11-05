@@ -125,8 +125,7 @@ Contributed to a humanoid platform that follows hand movement in real time and s
 
 | Organization | Role | Period |
 |---|---|---|
-| **Schaeffler Technologies AG & Co. KG** | Master thesis student ,Safety Brain for Humanoid Robots: Knowledge-Graph-Guided Safety
-Monitoring For Motion Control  | AUG 2026 – Present |
+| **Schaeffler Technologies AG & Co. KG** | Master thesis student ,Safety Brain for Humanoid Robots: Knowledge-Graph-Guided Safety Monitoring For Motion Control  | AUG 2026 – Present |
 | **Schaeffler Technologies AG & Co. KG** | Behavioral Safety Research Intern, Innovation Factory | Sep 2025 – Mar 2026 |
 | **Universität der Bundeswehr München** | Student Research Assistant — UAV perception & planning | Jun 2024 – May 2025 |
 | **Robomiracle** | Robotics Trainer & Research Specialist | Feb 2023 – Aug 2023 |
